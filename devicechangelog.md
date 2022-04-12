@@ -1,3 +1,2 @@
-# v5.0
-- Initial A12L build
-- Nothing else
+# v5.1
+- Me busy af so no device side changes only sauce changes
