@@ -1,2 +1,3 @@
-# v5.1
-- Me busy af so no device side changes only sauce changes
+# v5.2
+- Misc Kernel Changes
+- Improved perf
