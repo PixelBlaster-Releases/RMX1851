@@ -1,3 +1,2 @@
-# v5.2
-- Misc Kernel Changes
-- Improved perf
+# v6.0
+- Initial A13 build bsaed on RUI2.0
